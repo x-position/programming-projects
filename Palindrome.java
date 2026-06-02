@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.ArrayList; //don't have high standards, this is pretty much the first time i've ever used java before)
 
 public class Palindrome {
     public static void main(String[] args) {
